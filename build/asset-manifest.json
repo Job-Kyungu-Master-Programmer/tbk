@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1f2c7d6d.css",
-    "main.js": "/static/js/main.ca7c8d89.js",
+    "main.js": "/static/js/main.5b3279fa.js",
     "static/media/pray1.jpeg": "/static/media/pray1.c80041b006eaae687298.jpeg",
     "static/media/img1.png": "/static/media/img1.21f9b78876eae15967f3.png",
     "static/media/30.png": "/static/media/30.6e1d415e394f0377a663.png",
     "static/media/cross-Christian.jpeg": "/static/media/cross-Christian.16f5fc68e2cfb97cb4a4.jpeg",
     "index.html": "/index.html",
     "main.1f2c7d6d.css.map": "/static/css/main.1f2c7d6d.css.map",
-    "main.ca7c8d89.js.map": "/static/js/main.ca7c8d89.js.map"
+    "main.5b3279fa.js.map": "/static/js/main.5b3279fa.js.map"
   },
   "entrypoints": [
     "static/css/main.1f2c7d6d.css",
-    "static/js/main.ca7c8d89.js"
+    "static/js/main.5b3279fa.js"
   ]
 }
